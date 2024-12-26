@@ -4,7 +4,7 @@ This project implements a text classification system using Support Vector Machin
 
 ## Project Structure
 
-text_classification/ 
+text_classification/   
 ├── app/ │  
 ├── main.py # FastAPI app │   
 ├── routes.py # API routes   
